@@ -1,2 +1,3 @@
 # Laba2
- create a rep
+ create a gitflow
+ 
